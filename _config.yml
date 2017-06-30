@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: fearythanyarat
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Thanyarat Charoenpornkittada"
+url: "https://fearythanyarat.github.io"
+baseurl: "/fearythanyarat"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://fearythanyarat.github.io/photorama/gallery/"  
+  - JOURNAL: "https://fearythanyarat.github.io/photorama/journal/"
+  - ABOUT: "https://fearythanyarat.github.io/photorama/about/"
 
 # All translation keys
 translations:
