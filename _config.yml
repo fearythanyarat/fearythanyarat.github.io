@@ -43,8 +43,8 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
+destination:       ./_site
+port:              4000
 
 
 # Build settings
