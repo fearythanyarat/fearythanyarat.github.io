@@ -4,7 +4,7 @@ email: ""
 description: "Thanyarat Charoenpornkittada"
 url: "https://fearythanyarat.github.io"
 baseurl: ""
-facebook_username: "fearythanyarat"
+facebook_username: "fearythanyarat.char"
 # twitter_username: ""
 instagram_username: "fearythanyarat"
 # github_username:  ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://fearythanyarat.github.io/gallery/"  
-  - JOURNAL: "https://fearythanyarat.github.io/journal/"
-  - ABOUT: "https://fearythanyarat.github.io/about/"
+  - GALLERY: "/gallery/"  
+  - JOURNAL: "/journal/"
+  - ABOUT: "/about/"
 
 # All translation keys
 translations:
