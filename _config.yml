@@ -19,17 +19,14 @@ owner:
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
+  statistics: "baidu_statistics.html"
 
-# Settings for comments helper
-# Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
-# Set 'provider' to false to turn commenting off globally.
-#Set 'provider: false' to disable comments globally.
-# Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
-#
-comments :
-  provider : disqus
-  disqus :
-    short_name : ""
+  # Set the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
+  # set this field to false to turn commenting off globally
+  # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
+  comments: "disqus_comments.html"
+  direct_link_base: "http://ctfile.zhouqian.tech/down/217373/fearythanyarat"
+
 
 # Internal nav
 nav:
