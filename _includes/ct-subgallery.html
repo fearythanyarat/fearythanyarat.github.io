@@ -7,11 +7,11 @@
 <div class="gallery masonry-gallery">
   {% for img in gallery %}
 
-	{% if !img.image-caption %}
+	{% if img.image-caption %}
 		{% assign img.image-caption = page.title %}
 	{% endif %}
 
-	{% if !img.image-copyright %}
+	{% if img.image-copyright == false %}
 		{% assign img.image-copyright = © site.title %}
 	{% endif %}
   <figure class="gallery-item">
@@ -19,7 +19,7 @@
 	<header class='gallery-icon'>
 
 <a href="{{ site.owner.direct_link_base }}{{ img.image_path }}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}">
-<img src="{{ site.owner.direct_link_base }}{{ img.image_path }}"></a>
+<img src="{{ site.owner.direct_link_base }}{{ img.image_path }}" onerror="this.src=this.src"></a>
 						
 	</header>	
 		

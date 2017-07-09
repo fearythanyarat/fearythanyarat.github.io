@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "ct-post"
 active: "journal"
 
 date: "2016-07-18"
@@ -10,9 +10,9 @@ comments: "true"
 tags: [tag01]
 categories: [cat01]
 
-header-img: "/20160718_แจกความโสดดดดดใส(23P)/13691099_1056122954466844_2820805449100380781_o.jpg"
+header-img: "https://ws2.sinaimg.cn/large/006tKfTcgy1fha4898tzcj30ww1dcn03.jpg"
 image:
-  feature: "/20160718_แจกความโสดดดดดใส(23P)/13691099_1056122954466844_2820805449100380781_o.jpg"
+  feature: "https://ws2.sinaimg.cn/large/006tKfTcgy1fha4898tzcj30ww1dcn03.jpg"
 
 gallery: 
   - image_path: "/20160718_แจกความโสดดดดดใส(23P)/13653363_1056122907800182_2966717929142694167_o.jpg"
